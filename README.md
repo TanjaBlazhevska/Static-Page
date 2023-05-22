@@ -6,6 +6,8 @@ Responsive for Desktop and Mobile
 
 
 MOBILE VERSTION: 
+
+
 ![mobile](https://github.com/TanjaBlazhevska/Static-Page/assets/108539969/d363510d-0fb1-458a-b533-60a841163341)
 
 
